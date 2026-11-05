@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nightrelay453-art.github.io/sitemap.xml
